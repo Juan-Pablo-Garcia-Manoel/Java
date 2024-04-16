@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=comite
+comment1.params=
+comment1.target=comite()
+comment2.params=artigos
+comment2.target=void\ addArtigo(artigo)
+comment3.params=id
+comment3.target=void\ removerArtigos(int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getArtigos()
+numComments=5

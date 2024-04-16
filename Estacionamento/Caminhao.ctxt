@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Caminhao
+comment1.params=placa\ modelo\ cor
+comment1.target=Caminhao(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Caminhao()
+comment3.params=
+comment3.target=double\ totalTempo()
+numComments=4

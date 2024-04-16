@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pontos
+comment1.params=
+comment1.target=Pontos()
+comment2.params=x1\ x2\ y1\ y2
+comment2.target=Pontos(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=double\ deltaX()
+comment4.params=
+comment4.target=double\ deltaY()
+comment5.params=
+comment5.target=double\ distancia()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=instituicao
+comment1.params=
+comment1.target=instituicao()
+comment2.params=professores
+comment2.target=void\ addProfessor(professor)
+comment3.params=id
+comment3.target=void\ removerProfessores(int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getProfessores()
+numComments=5

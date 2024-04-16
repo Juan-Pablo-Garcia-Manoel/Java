@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=competidor
+comment1.params=nome\ pontos
+comment1.target=competidor(java.lang.String,\ int)
+comment2.params=karts
+comment2.target=void\ addKart(kart)
+comment3.params=id
+comment3.target=void\ removerKarts(int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getKarts()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=Pontos
+comment6.target=void\ setPontos(int)
+comment7.params=
+comment7.target=java.lang.String\ getNome()
+comment8.params=
+comment8.target=int\ getPontos()
+numComments=9

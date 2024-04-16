@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Populacao
+comment1.params=
+comment1.target=Populacao()
+comment10.params=
+comment10.target=double\ porcentagemMulheres18a35VerdesLouros()
+comment2.params=pessoa
+comment2.target=void\ addPessoa(Pessoa)
+comment3.params=
+comment3.target=java.util.ArrayList\ getPessoa()
+comment4.params=
+comment4.target=double\ menorAltura()
+comment5.params=
+comment5.target=double\ maiorAltura()
+comment6.params=
+comment6.target=double\ mediaAlturaMulheres()
+comment7.params=
+comment7.target=double\ numeroHomens()
+comment8.params=
+comment8.target=double\ porcentagemHomens()
+comment9.params=
+comment9.target=double\ porcentagemMulheres()
+numComments=11

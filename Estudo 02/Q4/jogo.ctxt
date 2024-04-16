@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=jogo
+comment1.params=numeroCartao
+comment1.target=jogo(int)
+comment2.params=times
+comment2.target=void\ addTimes(time)
+comment3.params=id
+comment3.target=void\ removerTimes(int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getTimes()
+comment5.params=numeroCartao
+comment5.target=void\ setNumeroCartao(int)
+comment6.params=
+comment6.target=int\ getNumeroCartao()
+numComments=7

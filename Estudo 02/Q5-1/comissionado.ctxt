@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=comissionado
+comment1.params=totalVenda\ taxaComissao\ nome\ sobrenome\ cpf
+comment1.target=comissionado(double,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=comissionado()
+comment3.params=totalVenda
+comment3.target=void\ setTotalVenda(double)
+comment4.params=taxaComissao
+comment4.target=void\ setTaxaComissao(double)
+comment5.params=
+comment5.target=double\ getTotalVenda()
+comment6.params=
+comment6.target=double\ getTaxaComissao()
+comment7.params=
+comment7.target=double\ vencimento()
+numComments=8

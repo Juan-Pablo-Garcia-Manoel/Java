@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=quadrado
+comment1.params=
+comment1.target=quadrado()
+comment2.params=
+comment2.target=double\ perimetro()
+comment3.params=linha
+comment3.target=void\ setLinha(linha)
+comment4.params=
+comment4.target=linha\ getLinha()
+numComments=5

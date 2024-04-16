@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=competicao
+comment1.params=
+comment1.target=competicao()
+comment2.params=competidores
+comment2.target=void\ addCompetido(competidor)
+comment3.params=id
+comment3.target=void\ removerCompetidores(int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getCompetidores()
+numComments=5

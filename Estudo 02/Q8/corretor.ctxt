@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=corretor
+comment1.params=nome\ idade
+comment1.target=corretor(java.lang.String,\ int)
+comment2.params=imoveis
+comment2.target=void\ addImovel(imovel)
+comment3.params=id
+comment3.target=void\ removeriImoveis(int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getImoveis()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=idade
+comment6.target=void\ setIdade(int)
+comment7.params=
+comment7.target=java.lang.String\ getNome()
+comment8.params=
+comment8.target=int\ getIdade()
+comment9.params=
+comment9.target=double\ recebimento()
+numComments=10

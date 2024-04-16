@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment1.params=nome\ cpf
+comment1.target=Funcionario(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Funcionario()
+comment3.params=cliente
+comment3.target=void\ addCliente(Cliente)
+comment4.params=i
+comment4.target=Cliente\ getCliente(int)
+numComments=5

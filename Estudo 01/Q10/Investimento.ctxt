@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Investimento
+comment1.params=
+comment1.target=Investimento()
+comment2.params=valorInvestido\ taxaMensal
+comment2.target=Investimento(double,\ double)
+comment3.params=valorInvestido
+comment3.target=void\ setValorInvestido(double)
+comment4.params=taxaMensal
+comment4.target=void\ setTaxaMensal(double)
+comment5.params=
+comment5.target=double\ getValorInvestido()
+comment6.params=
+comment6.target=double\ getTaxaMensal()
+comment7.params=
+comment7.target=double\ taxa()
+comment8.params=
+comment8.target=double\ saldo()
+numComments=9

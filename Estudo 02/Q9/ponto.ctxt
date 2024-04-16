@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ponto
+comment1.params=xA\ xB\ yA\ yB
+comment1.target=ponto(double,\ double,\ double,\ double)
+comment2.params=xA
+comment2.target=void\ setXA(double)
+comment3.params=xB
+comment3.target=void\ setXB(double)
+comment4.params=yA
+comment4.target=void\ setYA(double)
+comment5.params=yB
+comment5.target=void\ setYB(double)
+comment6.params=
+comment6.target=double\ getXA()
+comment7.params=
+comment7.target=double\ getXB()
+comment8.params=
+comment8.target=double\ getYA()
+comment9.params=
+comment9.target=double\ getYB()
+numComments=10

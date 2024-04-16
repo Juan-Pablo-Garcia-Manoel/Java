@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Impar
+comment1.params=
+comment1.target=Impar()
+comment2.params=numeroInicial\ numeroFinal
+comment2.target=Impar(int,\ int)
+comment3.params=numeroInicial
+comment3.target=void\ setNumeroInicial(int)
+comment4.params=numeroFinal
+comment4.target=void\ setNumeroFinal(int)
+comment5.params=
+comment5.target=int\ getNumeroInicial()
+comment6.params=
+comment6.target=int\ getNumeroFinal()
+comment7.params=
+comment7.target=void\ ehImpar()
+numComments=8

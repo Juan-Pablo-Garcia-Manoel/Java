@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Carro
+comment1.params=placa\ modelo\ cor
+comment1.target=Carro(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Carro()
+numComments=3

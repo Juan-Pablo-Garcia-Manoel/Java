@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=kart
+comment1.params=ajustePneu\ regulagemMotor
+comment1.target=kart(boolean,\ boolean)
+comment2.params=ajustePneu
+comment2.target=void\ setAjustePneu(boolean)
+comment3.params=regulagemMotor
+comment3.target=void\ setRegulagemMotor(boolean)
+comment4.params=
+comment4.target=boolean\ getAjustePneu()
+comment5.params=
+comment5.target=boolean\ getRegulagemMotor()
+numComments=6

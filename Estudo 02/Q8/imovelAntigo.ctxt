@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=imovelAntigo
+comment1.params=endereco\ preco
+comment1.target=imovelAntigo(java.lang.String,\ double)
+comment2.params=desconto
+comment2.target=void\ setDesconto(boolean)
+comment3.params=valorDesconto
+comment3.target=void\ setValorDesconto(double)
+comment4.params=
+comment4.target=boolean\ getDesconto()
+comment5.params=
+comment5.target=double\ getValorDesconto()
+comment6.params=
+comment6.target=boolean\ valorDesconto()
+numComments=7

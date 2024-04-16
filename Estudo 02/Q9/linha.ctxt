@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=linha
+comment1.params=xA\ xB\ yA\ yB
+comment1.target=linha(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ comprimentoLinha()
+comment3.params=
+comment3.target=boolean\ eVertical()
+comment4.params=
+comment4.target=boolean\ eHorizontal()
+numComments=5

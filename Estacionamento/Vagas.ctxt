@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Vagas
+comment1.params=
+comment1.target=Vagas()
+comment2.params=maxVagas
+comment2.target=Vagas(int)
+comment3.params=maxVagas
+comment3.target=void\ setMaxVagas(int)
+comment4.params=
+comment4.target=int\ getMaxVagas()
+comment5.params=veiculo
+comment5.target=boolean\ estacionaVeiculo(Veiculo)
+comment6.params=veiculo
+comment6.target=boolean\ removeVeiculo(Veiculo)
+comment7.params=
+comment7.target=int\ localizaVagaLivre()
+numComments=8

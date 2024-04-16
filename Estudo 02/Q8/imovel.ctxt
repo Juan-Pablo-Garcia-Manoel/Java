@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=imovel
+comment1.params=endereco\ preco
+comment1.target=imovel(java.lang.String,\ double)
+comment2.params=Endereco
+comment2.target=void\ seteEndereco(java.lang.String)
+comment3.params=preco
+comment3.target=void\ setPreco(double)
+comment4.params=venda
+comment4.target=void\ setVenda(boolean)
+comment5.params=
+comment5.target=java.lang.String\ getEndereco()
+comment6.params=
+comment6.target=double\ getPreco()
+comment7.params=
+comment7.target=boolean\ getVenda()
+comment8.params=
+comment8.target=java.lang.String\ compraFeita()
+numComments=9

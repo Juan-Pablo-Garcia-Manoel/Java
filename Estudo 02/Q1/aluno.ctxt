@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=aluno
+comment1.params=nome\ escolha
+comment1.target=aluno(java.lang.String,\ boolean)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=escolha
+comment3.target=void\ setEscolha(boolean)
+comment4.params=turma
+comment4.target=void\ setTurma(turma)
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=
+comment6.target=boolean\ getEscolha()
+comment7.params=
+comment7.target=turma\ getTurma()
+numComments=8

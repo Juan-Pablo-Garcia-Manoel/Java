@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Peixe
+comment1.params=
+comment1.target=Peixe()
+comment2.params=peso
+comment2.target=Peixe(double)
+comment3.params=peso
+comment3.target=void\ setPeso(double)
+comment4.params=
+comment4.target=double\ getPeso()
+numComments=5

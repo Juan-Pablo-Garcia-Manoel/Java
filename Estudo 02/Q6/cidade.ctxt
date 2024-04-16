@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=cidade
+comment1.params=sigla
+comment1.target=cidade(java.lang.String)
+comment2.params=nome
+comment2.target=void\ setSigla(java.lang.String)
+comment3.params=competicao
+comment3.target=void\ setCompeticao(competicao)
+comment4.params=
+comment4.target=java.lang.String\ getsSigla()
+comment5.params=
+comment5.target=competicao\ getCompeticao()
+numComments=6
